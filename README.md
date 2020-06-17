@@ -37,4 +37,3 @@ A Desktop application that is useful for everyone who need mailing mailing in Bu
 ![alt text](https://github.com/aj14799/Bulk-Email-Sender-1.0/blob/master/Screenshots/Screenshot%20(266).png)
 ![alt text](https://github.com/aj14799/Bulk-Email-Sender-1.0/blob/master/Screenshots/Screenshot%20(267).png)
 ![alt text](https://github.com/aj14799/Bulk-Email-Sender-1.0/blob/master/Screenshots/Screenshot%20(268).png)
-![alt text](https://github.com/aj14799/Bulk-Email-Sender-1.0/blob/master/Screenshots/Screenshot%20(269).png)
